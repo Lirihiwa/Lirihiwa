@@ -1,3 +1,5 @@
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=6AC1FF&center=true&vCenter=true&width=600&lines=const+dev+%3D+new+SoftwareEngineer();;dev.stack.push('JavaScript');;dev.love(%22web%22);;dev.hobby(%22writing+Minecraft+bots%22)+%2F%2F+shh+%F0%9F%A4%AB" alt="Typing SVG" />
 
 </div>
@@ -37,8 +39,6 @@
 </div>
 
 </div>
-
-<div align="center">
   
 <div align="center">
 
